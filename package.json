@@ -1,0 +1,54 @@
+{
+  "name": "annalisa.space",
+  "description": "Annalisa Valente's portfolio site",
+  "version": "1.0.0",
+  "author": "Richard Cargill <richard.r.cargill@gmail.com>",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "dotenv": "^6.0.0",
+    "gatsby": "^1.9.277",
+    "gatsby-image": "^2.0.17",
+    "gatsby-link": "^1.6.46",
+    "gatsby-plugin-favicon": "2.1.1",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-react-next": "^1.0.11",
+    "gatsby-plugin-sharp": "^2.0.8",
+    "gatsby-plugin-typography": "^2.2.0",
+    "gatsby-source-contentful": "^1.3.54",
+    "gatsby-source-filesystem": "^2.0.5",
+    "gatsby-transformer-remark": "^1.0.9",
+    "gatsby-transformer-sharp": "^2.1.5",
+    "gh-pages": "^2.0.0",
+    "intersection-observer": "^0.5.0",
+    "lodash": "^4.17.11",
+    "nuka-carousel": "^4.4.3",
+    "react-favicon": "^0.0.14",
+    "react-helmet": "^5.2.0",
+    "react-intersection-observer": "^6.2.3",
+    "react-load-script": "^0.0.6",
+    "react-transition-group": "^2.5.0",
+    "react-typography": "^0.16.13",
+    "sha1": "^1.1.1",
+    "two.js": "^0.7.0-alpha.1",
+    "typography": "^0.16.17"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "predeploy": "gatsby build && cp ./src/assets/CNAME ./public",
+    "deploy": "gh-pages -d public",
+    "test": "exit 0",
+    "format": "prettier --write 'src/**/*.js'"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richard-cargill/annalisa.space.git"
+  }
+}
