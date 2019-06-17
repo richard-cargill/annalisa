@@ -20,6 +20,10 @@
       "path---projects-mymail-and-nectar-777a0d36cee1910a935a.js",
       "path---projects-mymail-and-nectar-777a0d36cee1910a935a.js.map"
     ],
+    "path---projects-pd-spellbook": [
+      "path---projects-pd-spellbook-2388d5553e2b95e69b1c.js",
+      "path---projects-pd-spellbook-2388d5553e2b95e69b1c.js.map"
+    ],
     "path---": [
       "path----29d0a563b90bd4bc48e5.js",
       "path----29d0a563b90bd4bc48e5.js.map"
@@ -31,10 +35,6 @@
     "path---projects-the-telegraph": [
       "path---projects-the-telegraph-cbce9ccd1e594a1d36a2.js",
       "path---projects-the-telegraph-cbce9ccd1e594a1d36a2.js.map"
-    ],
-    "path---pd-spellbook": [
-      "path---pd-spellbook-3815a903e875b4b3f837.js",
-      "path---pd-spellbook-3815a903e875b4b3f837.js.map"
     ],
     "path---projects-calvin-klein": [
       "path---projects-calvin-klein-c837bfd470cc2c1f95ae.js",
@@ -89,9 +89,9 @@
       "path---projects-mighty-hikes-6c0f4ec1634ed530b801.js.map"
     ],
     "app": [
-      "app-b2bcc08c7b53afe696bc.js",
+      "app-88e3119d2b51540942fb.js",
       "build-js-styles.css",
-      "app-b2bcc08c7b53afe696bc.js.map",
+      "app-88e3119d2b51540942fb.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
