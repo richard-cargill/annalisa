@@ -32,6 +32,10 @@
       "path---projects-the-telegraph-cbce9ccd1e594a1d36a2.js",
       "path---projects-the-telegraph-cbce9ccd1e594a1d36a2.js.map"
     ],
+    "path---pd-spellbook": [
+      "path---pd-spellbook-3815a903e875b4b3f837.js",
+      "path---pd-spellbook-3815a903e875b4b3f837.js.map"
+    ],
     "path---projects-calvin-klein": [
       "path---projects-calvin-klein-c837bfd470cc2c1f95ae.js",
       "path---projects-calvin-klein-c837bfd470cc2c1f95ae.js.map"
@@ -85,9 +89,9 @@
       "path---projects-mighty-hikes-6c0f4ec1634ed530b801.js.map"
     ],
     "app": [
-      "app-9e19e82fde78baba5368.js",
+      "app-b2bcc08c7b53afe696bc.js",
       "build-js-styles.css",
-      "app-9e19e82fde78baba5368.js.map",
+      "app-b2bcc08c7b53afe696bc.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
