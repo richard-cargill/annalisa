@@ -1,72 +1,72 @@
 {
   "assetsByChunkName": {
     "path---projects-nectar": [
-      "path---projects-nectar-d861743c7bd102bdddb7.js",
-      "path---projects-nectar-d861743c7bd102bdddb7.js.map"
+      "path---projects-nectar-7f4309b25141cd94d335.js",
+      "path---projects-nectar-7f4309b25141cd94d335.js.map"
     ],
     "path---projects-emoji-and-depression": [
-      "path---projects-emoji-and-depression-853ef963e5801287dc9d.js",
-      "path---projects-emoji-and-depression-853ef963e5801287dc9d.js.map"
+      "path---projects-emoji-and-depression-734bde37028e9490e8e1.js",
+      "path---projects-emoji-and-depression-734bde37028e9490e8e1.js.map"
     ],
     "path---projects-the-telegraph-puzzle": [
-      "path---projects-the-telegraph-puzzle-87450544ec909c24b7d7.js",
-      "path---projects-the-telegraph-puzzle-87450544ec909c24b7d7.js.map"
+      "path---projects-the-telegraph-puzzle-52e651320f918e224150.js",
+      "path---projects-the-telegraph-puzzle-52e651320f918e224150.js.map"
     ],
     "path---hackathon": [
-      "path---hackathon-3ab13d087ac2561bdbef.js",
-      "path---hackathon-3ab13d087ac2561bdbef.js.map"
+      "path---hackathon-c915980f5c92852f30f3.js",
+      "path---hackathon-c915980f5c92852f30f3.js.map"
     ],
     "path---projects-mymail-and-nectar": [
-      "path---projects-mymail-and-nectar-04de2a5642d46415e581.js",
-      "path---projects-mymail-and-nectar-04de2a5642d46415e581.js.map"
+      "path---projects-mymail-and-nectar-8327aab59b38d349acf8.js",
+      "path---projects-mymail-and-nectar-8327aab59b38d349acf8.js.map"
     ],
     "path---projects-pd-spellbook": [
-      "path---projects-pd-spellbook-f1d1d38c2023a29cde98.js",
-      "path---projects-pd-spellbook-f1d1d38c2023a29cde98.js.map"
+      "path---projects-pd-spellbook-b04aa76adb7889381f8e.js",
+      "path---projects-pd-spellbook-b04aa76adb7889381f8e.js.map"
     ],
     "path---": [
       "path----29d0a563b90bd4bc48e5.js",
       "path----29d0a563b90bd4bc48e5.js.map"
     ],
     "path---design-exploration": [
-      "path---design-exploration-34efd14c0653fc04939b.js",
-      "path---design-exploration-34efd14c0653fc04939b.js.map"
+      "path---design-exploration-f5e9768fab2af2929afa.js",
+      "path---design-exploration-f5e9768fab2af2929afa.js.map"
     ],
     "path---projects-the-telegraph": [
-      "path---projects-the-telegraph-46af3e9cd5cd25bf8c3f.js",
-      "path---projects-the-telegraph-46af3e9cd5cd25bf8c3f.js.map"
+      "path---projects-the-telegraph-6b8e4bd1c91a2356ea83.js",
+      "path---projects-the-telegraph-6b8e4bd1c91a2356ea83.js.map"
     ],
     "path---projects-calvin-klein": [
-      "path---projects-calvin-klein-1d96e0065d1e662e4b70.js",
-      "path---projects-calvin-klein-1d96e0065d1e662e4b70.js.map"
+      "path---projects-calvin-klein-4c48ecc2c597d34bb996.js",
+      "path---projects-calvin-klein-4c48ecc2c597d34bb996.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-7a8b9b52d5fb7a855b41.js",
       "component---src-layouts-index-js-7a8b9b52d5fb7a855b41.js.map"
     ],
     "path---projects-brave-the-shave": [
-      "path---projects-brave-the-shave-d3b9d53c7517f77e4538.js",
-      "path---projects-brave-the-shave-d3b9d53c7517f77e4538.js.map"
+      "path---projects-brave-the-shave-bfdf68199ff9318fdb4a.js",
+      "path---projects-brave-the-shave-bfdf68199ff9318fdb4a.js.map"
     ],
     "path---index": [
-      "path---index-b56cab7475edf078784e.js",
-      "path---index-b56cab7475edf078784e.js.map"
+      "path---index-5e699883a16ff259fa86.js",
+      "path---index-5e699883a16ff259fa86.js.map"
     ],
     "path---projects-mindfulness-moments": [
-      "path---projects-mindfulness-moments-8ad365b452decf58eae1.js",
-      "path---projects-mindfulness-moments-8ad365b452decf58eae1.js.map"
+      "path---projects-mindfulness-moments-bf23840660ad6c7c964a.js",
+      "path---projects-mindfulness-moments-bf23840660ad6c7c964a.js.map"
     ],
     "path---store-for-panels": [
-      "path---store-for-panels-21c661d3f19bfa03428c.js",
-      "path---store-for-panels-21c661d3f19bfa03428c.js.map"
+      "path---store-for-panels-4bfd148db47c5ce2afd8.js",
+      "path---store-for-panels-4bfd148db47c5ce2afd8.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-547bba915f3912d70b95.js",
       "component---src-pages-404-js-547bba915f3912d70b95.js.map"
     ],
     "path---projects-google": [
-      "path---projects-google-c41e1173fa7029271bdd.js",
-      "path---projects-google-c41e1173fa7029271bdd.js.map"
+      "path---projects-google-a6e0709abcdfdf6b3836.js",
+      "path---projects-google-a6e0709abcdfdf6b3836.js.map"
     ],
     "commons": [
       "commons-9d3f16f581e6ff774ad5.js",
@@ -77,21 +77,21 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---projects-face-name": [
-      "path---projects-face-name-05cf5bba74ac1e512ee4.js",
-      "path---projects-face-name-05cf5bba74ac1e512ee4.js.map"
+      "path---projects-face-name-ddfa5c6f25a3681f98be.js",
+      "path---projects-face-name-ddfa5c6f25a3681f98be.js.map"
     ],
     "path---projects-local-cancer-intelligence": [
-      "path---projects-local-cancer-intelligence-e5c924feecfe4fba4e50.js",
-      "path---projects-local-cancer-intelligence-e5c924feecfe4fba4e50.js.map"
+      "path---projects-local-cancer-intelligence-f26502e18954d918a875.js",
+      "path---projects-local-cancer-intelligence-f26502e18954d918a875.js.map"
     ],
     "path---projects-mighty-hikes": [
-      "path---projects-mighty-hikes-6d3a777051fedd66bcc2.js",
-      "path---projects-mighty-hikes-6d3a777051fedd66bcc2.js.map"
+      "path---projects-mighty-hikes-4b341619fd14c06730c3.js",
+      "path---projects-mighty-hikes-4b341619fd14c06730c3.js.map"
     ],
     "app": [
-      "app-88e3119d2b51540942fb.js",
+      "app-bfdeb793b7c037924a48.js",
       "build-js-styles.css",
-      "app-88e3119d2b51540942fb.js.map",
+      "app-bfdeb793b7c037924a48.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -103,8 +103,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-7807dabc854b98adf0de.js",
-      "path---about-7807dabc854b98adf0de.js.map"
+      "path---about-c5638f0ed906f7ddc1f6.js",
+      "path---about-c5638f0ed906f7ddc1f6.js.map"
     ]
   }
 }
