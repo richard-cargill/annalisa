@@ -62,8 +62,8 @@ a {
   color: currentColor;
   text-decoration: none;
   display: inline-block;
-  padding: .5rem;
-  margin-left: -.5rem;
+  padding: 0.5rem;
+  margin-left: -0.5rem;
 }
 
 .logo__img {
@@ -83,7 +83,7 @@ a {
   display: inline;
 }
 
-.nav__list__item:not(:first-child)  {
+.nav__list__item:not(:first-child) {
   margin-left: 1rem;
 }
 
@@ -93,7 +93,7 @@ a {
   color: currentColor;
   border-bottom: 2px solid transparent;
   padding-bottom: 2px;
-  transition: border-color .25s linear;
+  transition: border-color 0.25s linear;
 }
 
 .nav__list__a:hover {
@@ -114,16 +114,16 @@ a {
 }
 
 .headerPanel h1 {
-  color: #756CDF;
+  color: #756cdf;
   font-size: 25px;
 }
 
 .animate {
   transform: translateZ(50%);
   opacity: 0;
-  transition-property: opacity,transform;
-  transform: translate3d(0,100px,0);
-  transition-duration: .6s;
+  transition-property: opacity, transform;
+  transform: translate3d(0, 100px, 0);
+  transition-duration: 0.6s;
   transition-timing-function: ease-in-out;
 }
 
@@ -138,11 +138,11 @@ a {
   }
 
   .animate:nth-child(3n + 2) {
-    transition-delay: .25s;
+    transition-delay: 0.25s;
   }
 
   .animate:nth-child(3n + 3) {
-    transition-delay: .5s;
+    transition-delay: 0.5s;
   }
 }
 
@@ -164,7 +164,8 @@ a {
   min-height: 40vh;
   display: flex;
   align-items: center;
-  box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+  box-shadow: 8px 14px 38px rgba(39, 44, 49, 0.06),
+    1px 3px 8px rgba(39, 44, 49, 0.03);
   margin-bottom: 1rem;
 }
 
@@ -174,7 +175,7 @@ a {
   }
 
   .selectorPanel__item {
-    flex-basis: calc(50% - .75rem);
+    flex-basis: calc(50% - 0.75rem);
     margin-bottom: 0;
   }
 }
@@ -203,7 +204,7 @@ a {
 .pageSelector__item {
   background-color: white;
   flex-basis: 100%;
-  border: .5px solid #263238;
+  border: 0.5px solid #263238;
   border-radius: 5px;
   min-height: 330px;
   margin-bottom: 1.5rem;
@@ -220,7 +221,8 @@ a {
     left: 0;
     z-index: -1;
     border-radius: 5px;
-    box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+    box-shadow: 8px 14px 38px rgba(39, 44, 49, 0.06),
+      1px 3px 8px rgba(39, 44, 49, 0.03);
   }
 }
 
@@ -362,6 +364,73 @@ a {
   background-color: #5c6bc0;
 }
 
+.pageSelector__item:nth-child(13) {
+  border-color: #009688;
+
+  &:hover:before {
+    background-color: #009688;
+  }
+}
+
+.pageSelector__item:nth-child(13):hover {
+  background-color: #009688;
+}
+
+.pageSelector__item:nth-child(14) {
+  border-color: #c51162;
+  &:hover:before {
+    background-color: #c51162;
+  }
+}
+
+.pageSelector__item:nth-child(14):hover {
+  background-color: #c51162;
+}
+
+.pageSelector__item:nth-child(15) {
+  border-color: #ff0266;
+  &:hover:before {
+    background-color: #ff0266;
+  }
+}
+
+.pageSelector__item:nth-child(15):hover {
+  background-color: #ff0266;
+}
+
+.pageSelector__item:nth-child(16) {
+  border-color: #ef5a09;
+  &:hover:before {
+    background-color: #ef5a09;
+  }
+}
+
+.pageSelector__item:nth-child(16):hover {
+  background-color: #ef5a09;
+}
+
+.pageSelector__item:nth-child(17):hover {
+  background-color: #0336ff;
+}
+
+.pageSelector__item:nth-child(17) {
+  border-color: #0336ff;
+  &:hover:before {
+    background-color: #0336ff;
+  }
+}
+
+.pageSelector__item:nth-child(18) {
+  border-color: #3601b0;
+  &:hover:before {
+    background-color: #3601b0;
+  }
+}
+
+.pageSelector__item:nth-child(18):hover {
+  background-color: #3601b0;
+}
+
 .pageSelector__title {
   font-size: 20px;
   font-weight: 400;
@@ -398,7 +467,7 @@ a {
     padding-right: 0;
   }
   .pageSelector__item {
-    flex-basis: calc(50% - .75rem);
+    flex-basis: calc(50% - 0.75rem);
   }
 }
 
@@ -414,7 +483,7 @@ a {
 }
 
 main {
- background: white;
+  background: white;
 }
 
 .footer {
@@ -453,8 +522,8 @@ main {
 
 .links li:not(:last-child):after {
   content: '/';
-  margin-right: .5rem;
-  margin-left: .5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
 }
 
 @media only screen and (min-width: 600px) {
@@ -462,7 +531,7 @@ main {
     font-size: 16px;
   }
 
- .links li:not(:last-child):after {
+  .links li:not(:last-child):after {
     margin-right: 1rem;
     margin-left: 1rem;
   }
@@ -471,7 +540,7 @@ main {
 .link__a {
   color: #263238;
   text-decoration: none;
-  transition: border-color .25s linear;
+  transition: border-color 0.25s linear;
   border-bottom: 2px solid transparent;
 }
 
@@ -523,9 +592,9 @@ main {
   display: inline-block;
   border: 1px solid #756cdf;
   border-radius: 3px;
-  padding: .75rem 1.5rem;
+  padding: 0.75rem 1.5rem;
   text-decoration: none;
-  transition: all .25s linear;
+  transition: all 0.25s linear;
   line-height: 1;
   position: relative;
   min-width: 140px;
@@ -540,12 +609,12 @@ main {
 
 .button--with-icon {
   text-align: left;
-  padding: .75rem;
+  padding: 0.75rem;
 
   &:after {
     content: '\2193';
     position: absolute;
-    right: .75rem;
+    right: 0.75rem;
     font-size: 150%;
     vertical-align: middle;
     transform: translateY(-50%);
@@ -721,7 +790,7 @@ main {
   transform: translate(-50%, -50%);
   outline: 0;
   font-size: 20px;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 .passwordPanel {
