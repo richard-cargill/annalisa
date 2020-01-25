@@ -12,18 +12,22 @@ const systemFontStack = [
   'sans-serif',
 ]
 
+const montserratFontStack = ['Montserrat', 'sans-serif']
+
+const georgiaFontStack = ['Georgia', 'Times', 'Times New Roman', 'serif']
+
 const typography = new Typography({
-  baseFontSize: '18px',
-  baseLineHeight: 1.8,
-  headerFontFamily: systemFontStack,
+  baseFontSize: '20px',
+  baseLineHeight: 1.5,
+  headerFontFamily: montserratFontStack,
   headerWeight: '600',
   scaleRatio: 1.3,
-  bodyFontFamily: systemFontStack,
+  bodyFontFamily: georgiaFontStack,
   bodyWeight: '400',
   googleFonts: [
     {
       name: 'Montserrat',
-      styles: ['700'],
+      styles: ['500', '700'],
     },
   ],
 })
