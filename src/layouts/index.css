@@ -740,7 +740,6 @@ main {
 }
 
 .content {
-  padding-top: 1.4rem;
   padding-bottom: 1.4rem;
   margin-bottom: 1.4rem;
 }
@@ -866,6 +865,9 @@ main {
 blockquote {
   position: relative;
   font-style: italic;
+  border-left: 4px solid #756cdf;
+  padding-left: 1.5rem;
+  margin-left: 0;
 }
 
 .float-right {

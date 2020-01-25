@@ -20,7 +20,7 @@ const typography = new Typography({
   baseFontSize: '20px',
   baseLineHeight: 1.5,
   headerFontFamily: montserratFontStack,
-  headerWeight: '600',
+  headerWeight: '500',
   scaleRatio: 1.3,
   bodyFontFamily: georgiaFontStack,
   bodyWeight: '400',
