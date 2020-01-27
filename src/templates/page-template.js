@@ -95,10 +95,15 @@ export const pageQuery = graphql`
         ... on ContentfulHeaderPanel {
           text
         }
+        ... on ContentfulQuotePanel {
+          text
+        }
         ... on ContentfulImagePanel {
           fullWidth
+          caption
           media {
             description
+            id
             file {
               url
             }

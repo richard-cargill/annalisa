@@ -827,6 +827,16 @@ main {
   margin-bottom: 1.4rem;
 }
 
+.imagePanel__caption {
+  font-size: 65%;
+  margin-bottom: 1.4rem;
+  margin-top: -0.8rem;
+  float: left;
+  width: 100%;
+  text-align: center;
+  opacity: 0.5;
+}
+
 .password {
   position: fixed;
   top: 50%;

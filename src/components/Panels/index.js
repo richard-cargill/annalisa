@@ -7,11 +7,14 @@ import ImagePanel from './ImagePanel.js'
 import ContentPanel from './ContentPanel.js'
 import SelectorPanel from './SelectorPanel.js'
 import SliderPanel from './SliderPanel.js'
+import QuotePanel from './QuotePanel.js'
 
 function Panels({ type, data, p }) {
   switch (type) {
     case 'ContentfulHeroPanel':
       return <HeroPanel text={data.text} description={data.description} />
+    case 'ContentfulQuotePanel':
+      return <QuotePanel text={data.text} />
     case 'ContentfulPageSelectorPanel':
       return (
         <PageSelectorPanel
@@ -24,8 +27,15 @@ function Panels({ type, data, p }) {
     case 'ContentfulHeaderPanel':
       return <HeaderPanel text={data.text} media={data.media} />
     case 'ContentfulImagePanel':
-      return <ImagePanel media={data.media} fullWidth={data.fullWidth} />
+      return (
+        <ImagePanel
+          media={data.media}
+          fullWidth={data.fullWidth}
+          caption={data.caption}
+        />
+      )
     case 'ContentfulContentPanel':
+      if (!data.content) return null
       return <ContentPanel html={data.content.childMarkdownRemark.html} />
     case 'ContentfulSelectorPanel':
       return <SelectorPanel text={data.text} pages={data.pages} />
