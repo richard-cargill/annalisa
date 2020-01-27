@@ -872,6 +872,32 @@ main {
   width: 4ex;
 }
 
+.quotePanel {
+  quotes: '“' '”';
+  display: flex;
+  align-items: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  justify-content: space-around;
+  font-style: italic;
+
+  &:before {
+    content: open-quote;
+    font-size: 3em;
+    padding-right: 1rem;
+    display: flex;
+    align-self: flex-start;
+  }
+
+  &:after {
+    content: close-quote;
+    font-size: 3em;
+    padding-right: 1rem;
+    display: flex;
+    align-self: flex-end;
+  }
+}
+
 blockquote {
   position: relative;
   font-style: italic;
