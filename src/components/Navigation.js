@@ -30,7 +30,7 @@ const Navigation = () => (
           className="nav__list__a"
           title="External link to Medium"
           role="menuitem"
-          href="https://blog.prototypr.io/@d_art_h_vader"
+          href="https://medium.com/@annalisavalente"
           target="_blank"
         >
           Blog
