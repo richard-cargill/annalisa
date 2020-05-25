@@ -8,10 +8,6 @@
       "path---projects-emoji-and-depression-d22d38a1c1103f155e20.js",
       "path---projects-emoji-and-depression-d22d38a1c1103f155e20.js.map"
     ],
-    "path---projects-the-telegraph-puzzle": [
-      "path---projects-the-telegraph-puzzle-e4752ccf124095d41e43.js",
-      "path---projects-the-telegraph-puzzle-e4752ccf124095d41e43.js.map"
-    ],
     "path---hackathon": [
       "path---hackathon-54c7e3aa2dceb2cbef76.js",
       "path---hackathon-54c7e3aa2dceb2cbef76.js.map"
@@ -97,9 +93,9 @@
       "path---projects-mighty-hikes-3d9a8665959ea279ee43.js.map"
     ],
     "app": [
-      "app-6a093d36bbcff9ee7e79.js",
+      "app-03c228668bafcd23db65.js",
       "build-js-styles.css",
-      "app-6a093d36bbcff9ee7e79.js.map",
+      "app-03c228668bafcd23db65.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
