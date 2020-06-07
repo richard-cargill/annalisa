@@ -13,19 +13,19 @@ const PresentationPanel = ({ iframe, fullWidth, text, role, year, company, timef
   const presentationClass = `cool_presentation_panel panel ${
     fullWidth !== true ? 'limit-width' : ''
   }`
-  const url = `${iframe.internal.content}`
+  const url = `${iframe.internal.content}&rm=minimal`
   const width = 960
   const height = 569
   const linkText = text || 'Continue to case study'
-  const linkUrl = url.replace('&rm=minimal', '')
+  const linkUrl = url.replace(/&rm=minimal/ig, '')
   return (
     <div>
     <aside className="background-alt mobile-is-hidden">
       <nav className="paging container nowrap">
-        <Subpresentationtitle html={year} title="Tools"/>
         <Subpresentationtitle html={role} title="Role"/>
         <Subpresentationtitle html={company} title="Client"/>
         <Subpresentationtitle html={timeframe} title="Timeframe"/>
+        <Subpresentationtitle html={year} title="Tools"/>
       </nav>
     </aside>
     <section className={presentationClass}>
