@@ -138,6 +138,15 @@ export const pageQuery = graphql`
             }
           }
         }
+        ... on ContentfulPresentationPanel {
+          fullWidth
+          mobileLinkText
+          iframe {
+            internal {
+              content
+            }
+          }
+        }
       }
     }
   }

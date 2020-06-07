@@ -8,6 +8,7 @@ import ContentPanel from './ContentPanel.js'
 import SelectorPanel from './SelectorPanel.js'
 import SliderPanel from './SliderPanel.js'
 import QuotePanel from './QuotePanel.js'
+import PresentationPanel from './PresentationPanel.js'
 
 function Panels({ type, data, p }) {
   switch (type) {
@@ -41,6 +42,14 @@ function Panels({ type, data, p }) {
       return <SelectorPanel text={data.text} pages={data.pages} />
     case 'ContentfulSliderPanel':
       return <SliderPanel slides={data.slides} fullWidth={data.fullWidth} />
+    case 'ContentfulPresentationPanel':
+      return (
+        <PresentationPanel
+          iframe={data.iframe}
+          fullWidth={data.fullWidth}
+          text={data.mobileLinkText}
+        />
+      )
     default:
       return null
   }
