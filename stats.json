@@ -1,0 +1,114 @@
+{
+  "assetsByChunkName": {
+    "path---projects-nectar": [
+      "path---projects-nectar-67a1dc9deb0b259e1072.js",
+      "path---projects-nectar-67a1dc9deb0b259e1072.js.map"
+    ],
+    "path---projects-emoji-and-depression": [
+      "path---projects-emoji-and-depression-0f64f4085aa60953fa5c.js",
+      "path---projects-emoji-and-depression-0f64f4085aa60953fa5c.js.map"
+    ],
+    "path---hackathon": [
+      "path---hackathon-e7daaecbf20a3535ebf1.js",
+      "path---hackathon-e7daaecbf20a3535ebf1.js.map"
+    ],
+    "path---projects-mymail-and-nectar": [
+      "path---projects-mymail-and-nectar-d7da384c4cccd891b65c.js",
+      "path---projects-mymail-and-nectar-d7da384c4cccd891b65c.js.map"
+    ],
+    "path---projects-pd-spellbook": [
+      "path---projects-pd-spellbook-9f1b2b94c990622a5dd0.js",
+      "path---projects-pd-spellbook-9f1b2b94c990622a5dd0.js.map"
+    ],
+    "path---": [
+      "path----29d0a563b90bd4bc48e5.js",
+      "path----29d0a563b90bd4bc48e5.js.map"
+    ],
+    "path---design-exploration": [
+      "path---design-exploration-3117f73a475bbc841492.js",
+      "path---design-exploration-3117f73a475bbc841492.js.map"
+    ],
+    "path---projects-the-telegraph": [
+      "path---projects-the-telegraph-2a5b48615497430ae65f.js",
+      "path---projects-the-telegraph-2a5b48615497430ae65f.js.map"
+    ],
+    "path---projects-calvin-klein": [
+      "path---projects-calvin-klein-fe7b2b691fd85031dff9.js",
+      "path---projects-calvin-klein-fe7b2b691fd85031dff9.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-25ee072c712204da3001.js",
+      "component---src-layouts-index-js-25ee072c712204da3001.js.map"
+    ],
+    "path---projects-brave-the-shave": [
+      "path---projects-brave-the-shave-24bfbd84e301781ce01d.js",
+      "path---projects-brave-the-shave-24bfbd84e301781ce01d.js.map"
+    ],
+    "path---index": [
+      "path---index-a6b26b8d55caadb2f97c.js",
+      "path---index-a6b26b8d55caadb2f97c.js.map"
+    ],
+    "path---projects-mindfulness-moments": [
+      "path---projects-mindfulness-moments-5993c1d659f2268682f9.js",
+      "path---projects-mindfulness-moments-5993c1d659f2268682f9.js.map"
+    ],
+    "path---projects-ibm": [
+      "path---projects-ibm-7633b7820a0877e0087e.js",
+      "path---projects-ibm-7633b7820a0877e0087e.js.map"
+    ],
+    "path---projects-lloyds-banking-group": [
+      "path---projects-lloyds-banking-group-9f3e49b220c7118ec240.js",
+      "path---projects-lloyds-banking-group-9f3e49b220c7118ec240.js.map"
+    ],
+    "path---store-for-panels": [
+      "path---store-for-panels-da774db50f6d000e0b00.js",
+      "path---store-for-panels-da774db50f6d000e0b00.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-547bba915f3912d70b95.js",
+      "component---src-pages-404-js-547bba915f3912d70b95.js.map"
+    ],
+    "path---projects-google": [
+      "path---projects-google-352eeaa45673d3d7383c.js",
+      "path---projects-google-352eeaa45673d3d7383c.js.map"
+    ],
+    "commons": [
+      "commons-9d3f16f581e6ff774ad5.js",
+      "commons-9d3f16f581e6ff774ad5.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---projects-face-name": [
+      "path---projects-face-name-b190ace99546a4a919fd.js",
+      "path---projects-face-name-b190ace99546a4a919fd.js.map"
+    ],
+    "path---projects-local-cancer-intelligence": [
+      "path---projects-local-cancer-intelligence-14f5ff7ec01860cb9c19.js",
+      "path---projects-local-cancer-intelligence-14f5ff7ec01860cb9c19.js.map"
+    ],
+    "path---projects-mighty-hikes": [
+      "path---projects-mighty-hikes-2c936661358d7be572ff.js",
+      "path---projects-mighty-hikes-2c936661358d7be572ff.js.map"
+    ],
+    "app": [
+      "app-3db1e4bf1b8e02c76d6e.js",
+      "build-js-styles.css",
+      "app-3db1e4bf1b8e02c76d6e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-templates-page-template-js": [
+      "component---src-templates-page-template-js-4d84e59e6a8d9d152166.js",
+      "component---src-templates-page-template-js-4d84e59e6a8d9d152166.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-67d410351086009119fa.js",
+      "path---about-67d410351086009119fa.js.map"
+    ]
+  }
+}
