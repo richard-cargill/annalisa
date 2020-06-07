@@ -1,7 +1,7 @@
 import React from 'react'
 
 const PresentationPanel = ({ iframe, fullWidth, text }) => {
-  const presentationClass = `container panel ${
+  const presentationClass = `cool_presentation_panel panel ${
     fullWidth !== true ? 'limit-width' : ''
   }`
   const url = `${iframe.internal.content}`

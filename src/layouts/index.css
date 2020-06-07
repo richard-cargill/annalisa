@@ -898,9 +898,15 @@ main {
   }
 }
 
+.cool_presentation_panel {
+  background: black;
+  display: flex;
+  justify-content: center;
+}
+
 .presentation {
   position: relative;
-  width: 100%;
+  width: 70%;
   height: 0;
   padding-bottom: 52.2%;
 }
