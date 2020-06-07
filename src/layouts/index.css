@@ -899,9 +899,14 @@ main {
 }
 
 .cool_presentation_panel {
-  background: black;
   display: flex;
   justify-content: center;
+}
+
+@media only screen and (min-width: 600px) {
+  .cool_presentation_panel {
+    background: black;
+  }
 }
 
 .presentation {
@@ -952,3 +957,12 @@ blockquote {
     display: none;
   }
 }
+
+.nowrap {
+  flex-wrap: nowrap;
+}
+
+.leftalign {
+  text-align: left !important;
+}
+

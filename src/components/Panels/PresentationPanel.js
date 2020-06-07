@@ -1,6 +1,15 @@
 import React from 'react'
 
-const PresentationPanel = ({ iframe, fullWidth, text }) => {
+const Subpresentationtitle = ({ html, title}) => {
+  return (
+    <div className="paging__item leftalign">
+    <span className="pageSelector__title">{title}</span>
+    <div className="paging__description" dangerouslySetInnerHTML={{ __html: html }}/>
+  </div>
+  )
+}
+
+const PresentationPanel = ({ iframe, fullWidth, text, role, year, company, timeframe }) => {
   const presentationClass = `cool_presentation_panel panel ${
     fullWidth !== true ? 'limit-width' : ''
   }`
@@ -10,6 +19,15 @@ const PresentationPanel = ({ iframe, fullWidth, text }) => {
   const linkText = text || 'Continue to case study'
   const linkUrl = url.replace('&rm=minimal', '')
   return (
+    <div>
+    <aside className="background-alt mobile-is-hidden">
+      <nav className="paging container nowrap">
+        <Subpresentationtitle html={year} title="Tools"/>
+        <Subpresentationtitle html={role} title="Role"/>
+        <Subpresentationtitle html={company} title="Client"/>
+        <Subpresentationtitle html={timeframe} title="Timeframe"/>
+      </nav>
+    </aside>
     <section className={presentationClass}>
       <div className="mobile-is-hidden presentation">
         <iframe
@@ -22,10 +40,11 @@ const PresentationPanel = ({ iframe, fullWidth, text }) => {
           frameBorder="0"
         />
       </div>
-      <a className="large-is-hidden" href={linkUrl} target="_blank">
+      <a className="large-is-hidden button pageSelector" href={linkUrl} target="_blank">
         {linkText}
       </a>
     </section>
+    </div>
   )
 }
 

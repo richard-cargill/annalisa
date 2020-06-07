@@ -48,6 +48,10 @@ function Panels({ type, data, p }) {
           iframe={data.iframe}
           fullWidth={data.fullWidth}
           text={data.mobileLinkText}
+          role={data.role.childMarkdownRemark.html}
+          year={data.year.childMarkdownRemark.html}
+          company={data.company.childMarkdownRemark.html}
+          timeframe={data.timeframe.childMarkdownRemark.html}
         />
       )
     default:

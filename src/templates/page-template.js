@@ -140,6 +140,26 @@ export const pageQuery = graphql`
         }
         ... on ContentfulPresentationPanel {
           fullWidth
+          role {
+            childMarkdownRemark {
+              html
+            }
+          }
+          year {
+            childMarkdownRemark {
+              html
+            }
+          }
+          company {
+            childMarkdownRemark {
+              html
+            }
+          }
+          timeframe {
+            childMarkdownRemark {
+              html
+            }
+          }
           mobileLinkText
           iframe {
             internal {
