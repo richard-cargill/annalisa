@@ -1,76 +1,76 @@
 {
   "assetsByChunkName": {
     "path---projects-nectar": [
-      "path---projects-nectar-5428e4bbb9c2c4dc7042.js",
-      "path---projects-nectar-5428e4bbb9c2c4dc7042.js.map"
+      "path---projects-nectar-0fe8f379894b87141083.js",
+      "path---projects-nectar-0fe8f379894b87141083.js.map"
     ],
     "path---projects-emoji-and-depression": [
-      "path---projects-emoji-and-depression-4902e01fa36ee93148d0.js",
-      "path---projects-emoji-and-depression-4902e01fa36ee93148d0.js.map"
+      "path---projects-emoji-and-depression-eafa26e3729973fc832a.js",
+      "path---projects-emoji-and-depression-eafa26e3729973fc832a.js.map"
     ],
     "path---hackathon": [
-      "path---hackathon-78ae30d8ca1294949560.js",
-      "path---hackathon-78ae30d8ca1294949560.js.map"
+      "path---hackathon-732e299512caed716c8c.js",
+      "path---hackathon-732e299512caed716c8c.js.map"
     ],
     "path---projects-mymail-and-nectar": [
-      "path---projects-mymail-and-nectar-999582a92093ba5c6af7.js",
-      "path---projects-mymail-and-nectar-999582a92093ba5c6af7.js.map"
+      "path---projects-mymail-and-nectar-bc43f2c6c355e54329a4.js",
+      "path---projects-mymail-and-nectar-bc43f2c6c355e54329a4.js.map"
     ],
     "path---": [
       "path----29d0a563b90bd4bc48e5.js",
       "path----29d0a563b90bd4bc48e5.js.map"
     ],
     "path---design-exploration": [
-      "path---design-exploration-29b9c85600c21b197388.js",
-      "path---design-exploration-29b9c85600c21b197388.js.map"
+      "path---design-exploration-ee7143002d03242859d9.js",
+      "path---design-exploration-ee7143002d03242859d9.js.map"
     ],
     "path---projects-the-telegraph": [
-      "path---projects-the-telegraph-dd5987df34044cccac5e.js",
-      "path---projects-the-telegraph-dd5987df34044cccac5e.js.map"
-    ],
-    "path---https-richard-cargill-github-io-pd-spellbook-b-target": [
-      "path---https-richard-cargill-github-io-pd-spellbook-b-target-be80d1f53fa69a48a15b.js",
-      "path---https-richard-cargill-github-io-pd-spellbook-b-target-be80d1f53fa69a48a15b.js.map"
+      "path---projects-the-telegraph-f6783d16dab27b5237e8.js",
+      "path---projects-the-telegraph-f6783d16dab27b5237e8.js.map"
     ],
     "path---projects-calvin-klein": [
-      "path---projects-calvin-klein-2ab3d1c84ab3943ee444.js",
-      "path---projects-calvin-klein-2ab3d1c84ab3943ee444.js.map"
+      "path---projects-calvin-klein-2ab1f7595b3cec23234c.js",
+      "path---projects-calvin-klein-2ab1f7595b3cec23234c.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-25ee072c712204da3001.js",
       "component---src-layouts-index-js-25ee072c712204da3001.js.map"
     ],
+    "path---pdspellbook": [
+      "path---pdspellbook-44718bdbf7069cbc9dc7.js",
+      "path---pdspellbook-44718bdbf7069cbc9dc7.js.map"
+    ],
     "path---projects-brave-the-shave": [
-      "path---projects-brave-the-shave-8bc8201257bac8dc4010.js",
-      "path---projects-brave-the-shave-8bc8201257bac8dc4010.js.map"
+      "path---projects-brave-the-shave-a8d5b90514cd13c4eab3.js",
+      "path---projects-brave-the-shave-a8d5b90514cd13c4eab3.js.map"
     ],
     "path---index": [
-      "path---index-9c70abc648dae51e01bd.js",
-      "path---index-9c70abc648dae51e01bd.js.map"
+      "path---index-3eb2c2fc3858d641431d.js",
+      "path---index-3eb2c2fc3858d641431d.js.map"
     ],
     "path---projects-mindfulness-moments": [
-      "path---projects-mindfulness-moments-f884f54153e0f775ff10.js",
-      "path---projects-mindfulness-moments-f884f54153e0f775ff10.js.map"
+      "path---projects-mindfulness-moments-96527482c40ffc8e810a.js",
+      "path---projects-mindfulness-moments-96527482c40ffc8e810a.js.map"
     ],
     "path---projects-ibm": [
-      "path---projects-ibm-960dddd369f12d072d67.js",
-      "path---projects-ibm-960dddd369f12d072d67.js.map"
+      "path---projects-ibm-b7804f043475f272ab5d.js",
+      "path---projects-ibm-b7804f043475f272ab5d.js.map"
     ],
     "path---projects-lloyds-banking-group": [
-      "path---projects-lloyds-banking-group-cab7262284d3c3d5585f.js",
-      "path---projects-lloyds-banking-group-cab7262284d3c3d5585f.js.map"
+      "path---projects-lloyds-banking-group-b395ea75a31148b5b397.js",
+      "path---projects-lloyds-banking-group-b395ea75a31148b5b397.js.map"
     ],
     "path---store-for-panels": [
-      "path---store-for-panels-eb574fd15d4337084b9b.js",
-      "path---store-for-panels-eb574fd15d4337084b9b.js.map"
+      "path---store-for-panels-22207c788a298bb03163.js",
+      "path---store-for-panels-22207c788a298bb03163.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-547bba915f3912d70b95.js",
       "component---src-pages-404-js-547bba915f3912d70b95.js.map"
     ],
     "path---projects-google": [
-      "path---projects-google-c6d99c960ff0b58a0473.js",
-      "path---projects-google-c6d99c960ff0b58a0473.js.map"
+      "path---projects-google-e03974eb804622842f03.js",
+      "path---projects-google-e03974eb804622842f03.js.map"
     ],
     "commons": [
       "commons-9d3f16f581e6ff774ad5.js",
@@ -81,21 +81,21 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---projects-face-name": [
-      "path---projects-face-name-2935e219421bab4532c2.js",
-      "path---projects-face-name-2935e219421bab4532c2.js.map"
+      "path---projects-face-name-e4ad7a3ab786f5022c50.js",
+      "path---projects-face-name-e4ad7a3ab786f5022c50.js.map"
     ],
     "path---projects-local-cancer-intelligence": [
-      "path---projects-local-cancer-intelligence-097f2391312b3909e2b2.js",
-      "path---projects-local-cancer-intelligence-097f2391312b3909e2b2.js.map"
+      "path---projects-local-cancer-intelligence-5d26abf23f7bfd8fa621.js",
+      "path---projects-local-cancer-intelligence-5d26abf23f7bfd8fa621.js.map"
     ],
     "path---projects-mighty-hikes": [
-      "path---projects-mighty-hikes-97a6870797816602ab9a.js",
-      "path---projects-mighty-hikes-97a6870797816602ab9a.js.map"
+      "path---projects-mighty-hikes-710223bf88d10641aa37.js",
+      "path---projects-mighty-hikes-710223bf88d10641aa37.js.map"
     ],
     "app": [
-      "app-2405cf3fab95bfcd10b5.js",
+      "app-5c065dd14c65c76668ff.js",
       "build-js-styles.css",
-      "app-2405cf3fab95bfcd10b5.js.map",
+      "app-5c065dd14c65c76668ff.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -107,8 +107,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-79c6a9a26b1674e012c4.js",
-      "path---about-79c6a9a26b1674e012c4.js.map"
+      "path---about-488a1666f5b5f48f4297.js",
+      "path---about-488a1666f5b5f48f4297.js.map"
     ]
   }
 }
