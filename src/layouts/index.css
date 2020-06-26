@@ -591,9 +591,7 @@ main {
 }
 
 .hero__title {
-  font-size: 45px;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
+  font-size: 60px;
   margin-bottom: 2.8rem;
 }
 
@@ -917,7 +915,21 @@ blockquote {
   padding-left: 1.5rem;
   margin-left: 0;
 }
+.tags {
+  margin-left: 1rem;
+}
 
+.tags li {
+  display: inline-block;
+  color:#232F34;
+  background-color:rgb(35, 47, 52, 0.12);
+  font-family: sans-serif;
+  padding: .35rem 1rem;
+  border-radius: 20px;
+  font-size: 45%;
+  margin-left: .5rem;
+  font-weight: normal;
+}
 .float-right {
   float: right;
 }
@@ -951,5 +963,11 @@ blockquote {
 
 .leftalign {
   text-align: left !important;
+}
+
+.no-style {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 

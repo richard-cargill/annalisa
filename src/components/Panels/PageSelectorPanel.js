@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Link, { navigateTo } from 'gatsby-link'
 import AnimateIn from '../AnimateIn.js'
 import sha1 from 'sha1'
+import Tag from '../Tag'
 
 import truncateTextAt from '../../utils/truncateTextAt.js'
 const isClient = typeof window !== 'undefined'
@@ -99,12 +100,8 @@ export default class PageSelectorPanel extends Component {
                 >
                   <div className="pageSelector__center">
                     <h3 className="pageSelector__title">{pageTitle}</h3>
-                    {description && (
-                      <p className="pageSelector__content">
-                        {truncateTextAt(description, 75)}
-                      </p>
-                    )}
-                    {tags && <p className="pageSelector__tags">{tags}</p>}
+                    
+                    <Tag tagString={tags}/> 
                   </div>
                 </Link>
               </AnimateIn>
