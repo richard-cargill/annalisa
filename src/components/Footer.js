@@ -39,16 +39,6 @@ const Footer = () => (
         <li>
           <a
             className="link__a"
-            title="External link to LinkedIn"
-            target="_blank"
-            href="https://www.linkedin.com/in/annalisavalente/"
-          >
-            LinkedIn
-          </a>
-        </li>
-        <li>
-          <a
-            className="link__a"
             title="External link to Twitter"
             target="_blank"
             href="https://twitter.com/d_art_h_vader"
